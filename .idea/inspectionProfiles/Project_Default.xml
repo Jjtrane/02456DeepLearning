@@ -5,10 +5,17 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="3">
+          <list size="10">
             <item index="0" class="java.lang.String" itemvalue="pyspark" />
             <item index="1" class="java.lang.String" itemvalue="proteus" />
             <item index="2" class="java.lang.String" itemvalue="ecco-time-series-forecasting" />
+            <item index="3" class="java.lang.String" itemvalue="pandas" />
+            <item index="4" class="java.lang.String" itemvalue="apache-airflow-providers-databricks" />
+            <item index="5" class="java.lang.String" itemvalue="apache-airflow-providers-datadog" />
+            <item index="6" class="java.lang.String" itemvalue="esd-services-api-client" />
+            <item index="7" class="java.lang.String" itemvalue="apache-airflow-providers-cncf-kubernetes" />
+            <item index="8" class="java.lang.String" itemvalue="apache-airflow" />
+            <item index="9" class="java.lang.String" itemvalue="azure-keyvault" />
           </list>
         </value>
       </option>
